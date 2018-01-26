@@ -7,7 +7,7 @@ L'association compte plusieurs partenaires.
 La salle comprend une scène, un bar et une cuisine. Possibilité d'organiser des concerts, rassemblements, mariages, etc.
 
 ### Le groupe
-* [Marie-ange](https://github.com/mabocoding)
+* [Marie-ange](https://github.com/bouchat-marieange)
 * [Kevin](https://github.com/ksomao)
 * [Antoine](https://github.com/GjeloshajAntoine)
 * [Nico](https://github.com/Ezaaii)

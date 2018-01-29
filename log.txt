@@ -1,0 +1,19 @@
+Compte mail
+mazygroupe8@hotmail.com
+Groupe@8
+
+
+Hebergeur
+mazy.hebergratuit.net
+Groupe@8
+
+Cpanel hebergeur
+mazyhebe
+
+
+Base de données
+heber_21502457_mazyhebe
+user: heber_21502457
+pwd: Groupe@8
+Hostname: sql312.hebergratuit.net
+

@@ -1,9 +1,9 @@
 <div class='nav'>
-<ul>
-  <li>Mazzy</li>
-  <li>About us</li>
-  <li>Galerie</li>
-  <li>Tarifs</li>
-  <li>Contact</li>
-</ul>
+  <ul>
+    <li>Mazzy</li>
+    <li>About us</li>
+    <li>Galerie</li>
+    <li>Tarifs</li>
+    <li>Contact</li>
+  </ul>
 </div>

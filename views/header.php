@@ -2,7 +2,7 @@
 
 <div class='nav'>
   <ul>
-    <li>Mazzy</li>
+    <li>Mazy</li>
     <li>About us</li>
     <li>Galerie</li>
     <li>Tarifs</li>

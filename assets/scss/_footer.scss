@@ -1,0 +1,12 @@
+@import "./variables";
+footer{
+  background: $light_grey;
+  width: 100%;
+  height: 80px;
+    p{
+  text-align: center;
+  font-size: $txt-size;
+  font-family: $text-font;
+  color:$withe;
+    }
+}

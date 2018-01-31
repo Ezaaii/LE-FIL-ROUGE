@@ -1,0 +1,22 @@
+@import "./variables";
+
+.nav{
+  background: $light_grey;
+  display: flex;
+  height: 35%;
+  width: 100%;
+  ul{
+    display: flex;
+    list-style: none;
+    margin-top: 150px;
+    margin-left: 600px;
+
+    li{
+      margin-right: 40px;
+      font-family: $text-font;
+      font-size: $nav;
+      color: $withe;
+      text-transform: uppercase;
+    }
+  }
+}

@@ -8,13 +8,13 @@ require_once (VIEW.'header.php');
 $action = isset($_GET['action']) ? htmlentities($_GET['action']):'default';
 
 Switch($action){
-case 'accueil': require_once(VIEW.'acceuil.php');
+case 'accueil': require_once(VIEW.'accueil.php');
 break;
 case 'about': require_once(VIEW.'about.php');
 break;
-case 'gallery': require_once(VIEW.'gallerie.php');
+case 'gallery': require_once(VIEW.'gallery.php');
 break;
-case 'tarifs': require_once(VIEW.'tarif.php');
+case 'tarifs': require_once(VIEW.'tarifs.php');
 break;
 case 'contact': require_once(VIEW.'contact.php');
 break;

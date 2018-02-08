@@ -31,3 +31,25 @@
     }
   }
 }
+@media screen and (max-width: 1100px){
+.nav{
+  // display: block;
+
+  ul{
+    margin-top: 50px;
+    margin-left: 10px;
+    display: inline-flex;
+    height: 20%;
+    margin: 0 auto;
+
+  }
+  li{
+    margin-top: 50px;
+
+  }
+  a{
+    font-size: 16px;
+  }
+}
+
+}

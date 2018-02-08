@@ -1,0 +1,54 @@
+
+.accueil
+{
+  background: #78101E;
+  display: flex;
+  width: 100%;
+  height: auto;
+
+
+h1
+ {
+   font-family: "Open Sans";
+   font-size: 65px;
+   margin-top: -10px;
+   color: #fff;
+   text-transform: uppercase;
+ }
+ img
+ {
+     width: 50%;
+     height: auto;
+     flex-wrap: wrap;
+ }
+}
+.para1 p
+{
+  margin-top: 20px;
+  color: #fff;
+  font-family: $text-font;
+  font-size: 18px;
+  width: 50%;
+  background: $red;
+  opacity: 0.6;
+  color: $withe;
+  padding: 20px;
+  flex-wrap: wrap;
+
+
+}
+
+.para2 p
+{
+  margin-top: 20px;
+  color: #fff;
+  font-family: "Open Sans";
+  font-size: 18px;
+  width: 600px;
+  background: #C4C4C4;
+  opacity: 0.6;
+  padding: 20px;
+  margin-top: 60px;
+  float: right;
+  color: #404040;
+}

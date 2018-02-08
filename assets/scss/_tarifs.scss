@@ -1,0 +1,78 @@
+@import "./variables";
+
+.all{
+  display: flex;
+  margin: 0;
+}
+h1 {
+  font-family: $text-font;
+  font-size: $title-size;
+  margin-top: -73px;
+  color: $withe;
+  text-transform: uppercase;
+  height: 50px;
+}
+.tarifs{
+  font-family:$text-font;
+  background:$withe;
+  color: black;
+  width:49%;
+  margin-top: 150px;
+}
+
+.right{
+  width:50%;
+  height:100%;
+  background:$red;
+  float:right;
+  padding: 50px;
+  margin-left: 30px;
+
+
+}
+
+.image{
+  margin-left: 50px;
+
+}
+
+.supp{
+  font-family: $text-font;
+  color:$withe;
+  margin-left: 50px;
+  padding-bottom: 10px;
+  font-size: 12px;
+
+  p{
+    font-family:$text-font;
+    border-color: blue;
+  }
+}
+@media screen and (max-width: 1000px){
+  .all{
+    display: flex;
+    background-color: $red;
+  }
+  .tarifs{
+    position: absolute;
+    width: 250px;
+    opacity: 0.8;
+    margin-top: 10px;
+  }
+  .tarifs td{
+    font-size: 10px;
+
+  }
+  .right{
+    padding: 5px;
+  }
+  .right img{
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+  .table{
+    font-size: 10px;
+  }
+}
